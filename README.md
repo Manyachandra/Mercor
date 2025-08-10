@@ -238,7 +238,7 @@ The main AI tools used during development were **Perplexity** and **Google Gemin
 
 ---
 ## ⏳ Approximate Time Spent
-~6 hours total, including design, implementation, testing, documentation, and refinements.
+6 hours total, including design, implementation, testing, documentation, and refinements.
 
 ---
 
