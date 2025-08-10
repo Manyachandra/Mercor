@@ -237,6 +237,10 @@ The main AI tools used during development were **Perplexity** and **Google Gemin
 - Refactoring code for clarity
 
 ---
+## ⏳ Approximate Time Spent
+~6 hours total, including design, implementation, testing, documentation, and refinements.
+
+---
 
 ## ✅ Compliance Statement
 This submission meets **100%** of the functional, interface, and performance requirements of the *Mercor Referral Network Challenge*, verified against the spec and validated by an automated 95%‑coverage test suite.
