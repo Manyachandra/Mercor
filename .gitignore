@@ -34,3 +34,6 @@ Thumbs.db
 # Project-specific
 *.log
 demo.py
+.tmp/
+out/
+coverage/

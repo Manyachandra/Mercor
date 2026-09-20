@@ -11,5 +11,5 @@ from .referral_network import ReferralNetwork
 from .simulation import NetworkSimulator, ReferralBonusOptimizer
 
 __version__ = "1.0.0"
-__author__ = "Mercor Challenge Implementation"
+__author__ = "Manya Chandra"
 __all__ = ["ReferralNetwork", "NetworkSimulator", "ReferralBonusOptimizer"]

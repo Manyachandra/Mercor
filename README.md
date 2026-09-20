@@ -2,6 +2,8 @@
 
 *Author: Manya Chandra, Python 3.11, Submission for Mercor Coding Challenge, 2025*
 
+🔗 [Repository: Manyachandra/Mercor](https://github.com/Manyachandra/Mercor)
+
 ## 📌 Challenge Overview
 This repository contains a **complete, fully spec‑compliant** implementation of the *Mercor Challenge: Referral Network*.  
 It delivers all five parts defined in the official problem statement — from referral graph management to referral bonus optimization — **in the same order as the specification**, with **95% test coverage (via pytest --cov)** and professional‑grade documentation.
